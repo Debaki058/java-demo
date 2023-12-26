@@ -1,4 +1,4 @@
 # java-demo
 This is my first Git Repository.
 <br>
-Author - Debaki Bholan
+Author - Debaki (javagit)
